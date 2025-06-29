@@ -48,19 +48,9 @@
   _React, Node.js, Express, Firebase_
 
 ---
-
-## 📜 Certifications
-
-- 🥇 Oracle Certified Foundations Associate (Oracle University – Apr 2025)  
-- 🧠 Deep Learning (CBIT Winter Upskilling – Jan 2025)  
-- 📊 Data Science Foundation (Infosys Springboard – Feb 2024)
-
----
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikboddula)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/B-Kaushik21)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:boddula.kaushik@gmail.com)
 
 ---
