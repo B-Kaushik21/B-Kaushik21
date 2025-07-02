@@ -32,22 +32,6 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 
 ---
-
-## 🔭 Projects
-
-- 🔊 **Bird Detection from Chirping**  
-  CNN-based classifier using audio features (Mel spectrograms) from 9000+ recordings  
-  _Python, TensorFlow, Librosa_
-
-- 🤚 **Hand Gesture Camera Control**  
-  Real-time photo capturing using thumb–index gesture via **MediaPipe + OpenCV**  
-  _Python, OpenCV, NumPy_
-
-- 👨‍🍳 **BookMyChef**  
-  A scalable food and chef booking web platform with Firebase backend  
-  _React, Node.js, Express, Firebase_
-
----
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikboddula)
